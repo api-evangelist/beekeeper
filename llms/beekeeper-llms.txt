@@ -1,0 +1,75 @@
+# LumApps
+
+> LumApps is an AI-powered employee hub and intranet platform that connects people, tools, AI agents, and knowledge across the employee experience. It unifies internal communication, collaboration, work automation, employee learning, and frontline operations for organizations of all sizes.
+
+LumApps serves internal communications, HR, IT, and frontline operations teams. The platform integrates with Microsoft 365, Google Workspace, ServiceNow, Workday, and 50+ business apps, and includes a governed AI Agent Hub, no-code micro-apps, and a mobile-first frontline experience. Following the combination with Beekeeper, LumApps spans both desk-based knowledge workers and deskless frontline employees.
+
+The site is published in English (default) and localized at `/fr` (French), `/de` (German), `/it` (Italian), and `/es` (Spanish). Replace the leading path segment to reach a localized version of most pages below.
+
+A complete index of every page, including all resources, customer stories, and articles, is in the [XML sitemap](https://www.lumapps.com/sitemap.xml).
+
+## Platform
+- [Why LumApps](https://www.lumapps.com/why-lumapps): Core differentiators and the case for choosing LumApps as your employee hub.
+- [Employee Experience Platform](https://www.lumapps.com/platform/employee-experience-platform): Platform overview - onboarding, communication, community, recognition, learning, and feedback in one employee hub.
+- [AI-Powered Platform](https://www.lumapps.com/platform/ai-powered-platform): AI agents for communications, IT, HR, and operations inside the intranet, with enterprise search, Agent Studio, and a governed knowledge layer.
+- [Intranet](https://www.lumapps.com/platform/employee-intranet): Personalized intranet with targeted content publishing and a unified company homepage across desktop and mobile.
+- [Integrations](https://www.lumapps.com/integrations): Connectors for Microsoft 365, Google Workspace, ServiceNow, Workday, and 50+ business applications.
+- [LumApps x Beekeeper](https://www.lumapps.com/lumapps-x-beekeeper): How LumApps and Beekeeper combine to serve both desk-based and frontline employees on one platform.
+- [Beekeeper Frontline](https://www.lumapps.com/beekeeper): Mobile-first frontline experience - operational communication, shift information, and digital forms for deskless workers.
+
+## Solutions & Use Cases
+- [Solutions Overview](https://www.lumapps.com/solutions): All LumApps solutions and use cases in one place.
+- [Internal Communication](https://www.lumapps.com/internal-communication): Targeted, measurable internal communications across channels and devices.
+- [Employee Engagement](https://www.lumapps.com/employee-engagement): Drive engagement, recognition, and a connected company culture.
+- [Employee Experience](https://www.lumapps.com/employee-experience): A unified employee experience spanning communication, knowledge, and tools.
+- [Modern Intranet](https://www.lumapps.com/modern-intranet): What a modern intranet looks like and how LumApps delivers it.
+- [Digital Workplace](https://www.lumapps.com/digital-workplace): Connecting people, tools, and content into a single digital workplace.
+- [Unified Workforce](https://www.lumapps.com/unified-workforce): Bringing desk-based and frontline employees onto one platform.
+
+## Why Choose LumApps
+- [LumApps Alternative](https://www.lumapps.com/alternative): LumApps positioned as an alternative to other intranet and employee-experience tools.
+- [A Leader Across the Market](https://www.lumapps.com/a-leader-across-the-market): Analyst recognition and market-leadership positioning.
+
+## Analyst Research
+- [Gartner Magic Quadrant for Intranet Packaged Solutions](https://www.lumapps.com/resources/analyst-reports/gartner-magic-quadrant): LumApps named a Leader for the third year in a row.
+- [The Forrester Wave: Intranet Platforms, Q2 2026](https://www.lumapps.com/resources/analyst-reports/the-forrester-wave-intranet-platforms-report): LumApps named a Leader.
+- [Forrester Total Economic Impact of LumApps](https://www.lumapps.com/resources/analyst-reports/forrester-assets-the-total-economic-impact-of-lumapps): Commissioned Forrester study finding a 254% ROI over three years.
+- [Gartner Critical Capabilities for Intranet Packaged Solutions](https://www.lumapps.com/resources/analyst-reports/gartner-critical-capabilities-for-intranet-packaged-solutions): LumApps scored highest across all six use cases in the 2025 report.
+
+## Customer Stories
+- [NVA (National Veterinary Associates)](https://www.lumapps.com/customer-stories/national-veterinary-associates-nva): Higher employee satisfaction and a stronger culture across 1,300+ veterinary locations with a unified intranet.
+- [Idex](https://www.lumapps.com/customer-stories/inidex-a-mobile-digital-workplace-supporting-employees-from-day-one): The energy company cut safety incidents by 23% with a mobile-first intranet that connects dispersed teams.
+- [Veolia](https://www.lumapps.com/customer-stories/veolia): Unifying an ecosystem of internal websites for 80,000+ employees.
+- [Proximus](https://www.lumapps.com/customer-stories/proximus-keeping-its-promise-of-the-best-communication-experience-for-its-customers-and-employees): Belgium's largest telecom keeps its teams connected and informed.
+- [Just Eat Takeaway.com](https://www.lumapps.com/customer-stories/just-eat-takeaway-digital-hub): A central digital hub that unifies communication across the global food delivery company.
+- [Palo Alto Networks](https://www.lumapps.com/customer-stories/customer-spotlight-how-palo-alto-networks-is-shaping-the-future-of-work): The cybersecurity leader connects its global workforce through a LumApps employee hub.
+- [Caribou Coffee](https://www.lumapps.com/customer-stories/caribou-coffee-success-story): Frontline communication with Beekeeper that supported rapid growth while preserving a close-knit culture.
+- [Royal Farms](https://www.lumapps.com/customer-stories/royal-farms-success-story): Keeping thousands of convenience store workers informed, engaged, and compliant with Beekeeper.
+
+## Guides & Research
+- [The Future of Work Index](https://www.lumapps.com/the-future-of-work-index): LumApps research on workplace and employee-experience trends.
+- [Intranet Buyer's Guide for Internal Communications Teams](https://www.lumapps.com/resources/guides/internal-comms-intranet-buyers-guide): How to evaluate intranet capabilities, compare platforms, and build internal alignment.
+- [How to Move Faster with an AI-Powered Intranet](https://www.lumapps.com/resources/guides/ai-intranet): How generative AI changes productivity, collaboration, and the employee experience inside an intranet.
+- [Intranet ROI](https://www.lumapps.com/resources/white-papers/intranet-roi): Frameworks for measuring and quantifying the business value of an intranet.
+- [Intranet for Manufacturing Companies](https://www.lumapps.com/resources/white-papers/communication-collaboration-for-manufacturing): Connecting plant floors to corporate offices, with guidance on safety and compliance.
+- [Legacy Intranet Diagnostic](https://www.lumapps.com/resources/checklists/legacy-intranet-diagnostic): Checklist to assess whether a current intranet is working and where the gaps are.
+- [Modernizing Communications with Frontline Employees](https://www.lumapps.com/resources/checklists/modernizing-communications-with-frontline-employees): Checklist for building a more informed, loyal, and secure frontline workforce.
+
+## News
+- [LumApps and Beekeeper Join Forces](https://www.lumapps.com/insights/news/lumapps-and-beekeeper-to-join-forces-creating-the-leading-employee-experience-platform-for-the-future-of-work): Announcement of the combination - 7M+ users and one AI hub for desk and frontline employees.
+
+## Company
+- [About LumApps](https://www.lumapps.com/company): Company mission, story, and team.
+- [Partner Network](https://www.lumapps.com/partner-network): Overview of the LumApps partner program.
+- [Become a Partner](https://www.lumapps.com/partner-network/become-a-partner): Join as a LumApps solution or channel partner.
+- [Become a Tech Partner](https://www.lumapps.com/partner-network/become-a-tech-partner): Join as a LumApps technology or integration partner.
+- [Contact Us](https://www.lumapps.com/contact-us): Get in touch with LumApps.
+
+## Get a Demo
+- [Request a Demo](https://www.lumapps.com/request-a-demo): Book a personalized product demo.
+- [Watch a Demo](https://www.lumapps.com/watch-demo): On-demand product demo.
+- [Video Demo](https://www.lumapps.com/video-demo): Product demo video.
+
+## Optional
+- [Mercer Belong](https://www.lumapps.com/mercer-belong): Co-branded campaign page for Mercer Belong, a joint Mercer and LumApps employee-experience offering.
+- [Internal Communication Quiz](https://www.lumapps.com/internal-communication-quiz): Interactive self-assessment for internal communications maturity.

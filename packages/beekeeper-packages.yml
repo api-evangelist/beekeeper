@@ -1,0 +1,84 @@
+generated: '2026-09-27'
+method: probed
+generator: harvest-packages.py
+source: registry metadata endpoints (registry.npmjs.org, pypi.org, rubygems.org, api.nuget.org, packagist.org, crates.io) ; github.com/lumapps
+ownership_rule: 'official: true only when the registry metadata (homepage, repository, author, URLs) names the provider''s domain (lumapps.com,
+  security/beekeeper-domain-security.yml) or its accepted GitHub org (lumapps).'
+packages:
+- name: customizations-api-doc
+  registry: github
+  url: https://github.com/lumapps/customizations-api-doc
+  language: ''
+  official: true
+  version: null
+  published: '2026-09-24'
+  source_repo: https://github.com/lumapps/customizations-api-doc
+  evidence: repository in github.com/lumapps, whose profile names the provider's domain
+- name: tap-netsuitesuiteql
+  registry: github
+  url: https://github.com/lumapps/tap-netsuitesuiteql
+  language: Python
+  official: true
+  version: null
+  published: '2026-09-09'
+  source_repo: https://github.com/lumapps/tap-netsuitesuiteql
+  evidence: repository in github.com/lumapps, whose profile names the provider's domain
+- name: lumapps-sdk
+  registry: github
+  url: https://github.com/lumapps/lumapps-sdk
+  language: Python
+  official: true
+  version: null
+  published: '2026-07-31'
+  source_repo: https://github.com/lumapps/lumapps-sdk
+  evidence: repository in github.com/lumapps, whose profile names the provider's domain
+- name: test-goban
+  registry: github
+  url: https://github.com/lumapps/test-goban
+  language: Go
+  official: true
+  version: null
+  published: '2026-05-26'
+  source_repo: https://github.com/lumapps/test-goban
+  evidence: repository in github.com/lumapps, whose profile names the provider's domain
+- name: test-goban-go
+  registry: github
+  url: https://github.com/lumapps/test-goban-go
+  language: Go
+  official: true
+  version: null
+  published: '2023-07-10'
+  source_repo: https://github.com/lumapps/test-goban-go
+  evidence: repository in github.com/lumapps, whose profile names the provider's domain
+- name: beekeeper
+  registry: npm
+  url: https://www.npmjs.com/package/beekeeper
+  language: JavaScript
+  official: false
+  version: 0.15.2
+  published: '2023-11-27'
+  evidence: 'name match only: the metadata names neither the provider''s domain nor its GitHub org'
+- name: beekeeper
+  registry: pypi
+  url: https://pypi.org/project/beekeeper/
+  language: Python
+  official: false
+  version: 0.9.2
+  published: '2016-03-21'
+  evidence: 'name match only: the metadata names neither the provider''s domain nor its GitHub org'
+- name: beekeeper
+  registry: rubygems
+  url: https://rubygems.org/gems/beekeeper
+  language: Ruby
+  official: false
+  version: 0.1.13
+  published: '2020-09-21'
+  evidence: 'name match only: the metadata names neither the provider''s domain nor its GitHub org'
+- name: beekeeper
+  registry: crates
+  url: https://crates.io/crates/beekeeper
+  language: Rust
+  official: false
+  version: 0.3.1
+  published: '2026-07-05'
+  evidence: 'name match only: the metadata names neither the provider''s domain nor its GitHub org'
